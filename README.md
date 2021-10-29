@@ -4,6 +4,8 @@ This resource for RDX adds possibility for different jobs to send bills to playe
 
 There is a developer server event available in order to register bills in the database, see default resources for examples.
 
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
+
 ## Download & Installation
 
 - Download https://github.com/Redm-Extended-PT/rdx_billing
